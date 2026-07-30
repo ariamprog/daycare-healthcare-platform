@@ -8,7 +8,7 @@ The project was presented at the hospital's **Innovation Exhibition**.
 
 # 📖 Problem
 
-Mental health hospitals care for a large number of patients, making it difficult for healthcare providers to perform regular follow-up calls after discharge.
+Mental health hospitals care for a large number of patients, making it difficult for healthcare providers to perform regular follow-up after discharge due to the large number of patients.
 
 As a result, changes in a patient's condition may go unnoticed until the next scheduled appointment.
 
@@ -28,7 +28,7 @@ The assigned doctor can monitor every patient's condition from a centralized das
 
 ## Family Member
 
-- Completes a daily assessment.
+- Completes the patient's daily assessment.
 - Answers simple evaluation questions.
 - Submits the patient's condition.
 
@@ -50,17 +50,18 @@ If the patient's daily evaluation score falls below **5 out of 9**, the platform
 
 - Reduces routine follow-up phone calls.
 - Helps doctors prioritize critical patients.
-- Improves communication with patients' families.
+- Improves communication between healthcare providers and patients' families.
 - Supports continuous mental healthcare after discharge.
 
 ---
 
 # 👩‍💻 My Contribution
 
-- Led the primary development of the platform.
-- Designed and implemented the core system functionality.
-- Contributed to the user interface.
-- Represented the project during the Innovation Exhibition at Jeddah Mental Health Hospital.
+- Developed the backend during the initial development phase using **Node.js** and **Express.js**.
+- Designed and implemented the core backend functionality and REST APIs.
+- Contributed to the overall system workflow.
+- Participated in building a prototype using AI-assisted development tools (Lovable) due to project time constraints.
+- Represented the project during the **Innovation Exhibition** at Jeddah Mental Health Hospital.
 
 ---
 
@@ -68,17 +69,19 @@ If the patient's daily evaluation score falls below **5 out of 9**, the platform
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Lovable-AI-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 
 </p>
 
@@ -88,16 +91,18 @@ If the patient's daily evaluation score falls below **5 out of 9**, the platform
 
 ## Poster
 
-_Add your project poster here._
+> Add the project poster here.
 
 ## User Interface
 
-_Add screenshots of the platform here._
+> Add screenshots of the platform here (without confidential information).
 
 ---
 
-# 🔒 Source Code
+# 📌 Project Status
 
-The source code is not publicly available because this project was developed in collaboration with a healthcare institution.
+This repository documents the project concept and development process.
 
-This repository is intended to showcase the project concept, my contribution, and the overall system design while respecting project confidentiality.
+The original source code is not publicly available because it was developed during my internship in collaboration with a healthcare institution and contains confidential work.
+
+This repository is intended to showcase the project concept, my contribution, and the overall system design.
