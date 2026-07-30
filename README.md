@@ -112,6 +112,8 @@ If the patient's daily evaluation score falls below **5 out of 9**, the platform
 <img width="1720" height="787" alt="لقطة شاشة 2026-07-30 122734" src="https://github.com/user-attachments/assets/5df4cdd9-4b04-4cf4-9b1e-9d86aa4eca58" />
 <img width="1720" height="787" alt="لقطة شاشة 2026-07-30 122742" src="https://github.com/user-attachments/assets/d4a326bd-904a-4500-bdd5-18c6b3b631d5" />
 
+# Disclaimer: All displayed information is fictional and created for demonstration purposes only. It does not represent real data or actual records.
+
 ---
 
 ## 📌 Project Status
@@ -119,4 +121,3 @@ If the patient's daily evaluation score falls below **5 out of 9**, the platform
 This repository documents the project concept and my contribution.
 
 The source code is not publicly available because the project was developed during my internship at Jeddah Mental Health Hospital, and the organization plans to continue its development. The repository respects the confidentiality requirements set by the internship supervisor.
-# Disclaimer: All displayed information is fictional and created for demonstration purposes only. It does not represent real data or actual records.
