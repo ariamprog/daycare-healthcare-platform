@@ -99,10 +99,8 @@ If the patient's daily evaluation score falls below **5 out of 9**, the platform
 
 ---
 
-# 📌 Project Status
+## 📌 Project Status
 
-This repository documents the project concept and development process.
+This repository documents the project concept and my contribution.
 
-The original source code is not publicly available because it was developed during my internship in collaboration with a healthcare institution and contains confidential work.
-
-This repository is intended to showcase the project concept, my contribution, and the overall system design.
+The source code is not publicly available because the project was developed during my internship at Jeddah Mental Health Hospital, and the organization plans to continue its development. The repository respects the confidentiality requirements set by the internship supervisor.
