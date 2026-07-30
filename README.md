@@ -96,8 +96,17 @@ If the patient's daily evaluation score falls below **5 out of 9**, the platform
 
 ## User Interface
 
-> Add screenshots of the platform here (without confidential information).
+### Doctor Login
 
+<img width="140" height="140" alt="لقطة شاشة 2026-07-30 122616" src="https://github.com/user-attachments/assets/6fd41e4d-53c8-4ec8-a2e0-20e5f21aea53" />
+
+### Family Login
+
+<img width="1920" height="140" alt="لقطة شاشة 2026-07-30 122610" src="https://github.com/user-attachments/assets/067363c6-2cf4-4800-aa47-d9013acff3f3" />
+
+
+### Dashboard
+<img src="assets/dashboard.png" width="700">
 ---
 
 ## 📌 Project Status
