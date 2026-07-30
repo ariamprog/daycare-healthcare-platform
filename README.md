@@ -119,3 +119,4 @@ If the patient's daily evaluation score falls below **5 out of 9**, the platform
 This repository documents the project concept and my contribution.
 
 The source code is not publicly available because the project was developed during my internship at Jeddah Mental Health Hospital, and the organization plans to continue its development. The repository respects the confidentiality requirements set by the internship supervisor.
+Disclaimer: All displayed information is fictional and created for demonstration purposes only. It does not represent real data or actual records.
