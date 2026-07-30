@@ -91,7 +91,7 @@ If the patient's daily evaluation score falls below **5 out of 9**, the platform
 
 ## Logo
 
-<img width="1045" height="1024" alt="الرعاية" src="https://github.com/user-attachments/assets/07062d1d-a5b1-463e-8ae9-31db4a7f0a28" />
+<img width="180" height="180" alt="الرعاية" src="https://github.com/user-attachments/assets/07062d1d-a5b1-463e-8ae9-31db4a7f0a28" />
 
 
 ## User Interface
