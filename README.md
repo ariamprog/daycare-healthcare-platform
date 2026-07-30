@@ -98,19 +98,19 @@ If the patient's daily evaluation score falls below **5 out of 9**, the platform
 
 ### Doctor Login
 
-<img width="1820" height="898" alt="لقطة شاشة 2026-07-30 122616" src="https://github.com/user-attachments/assets/6fd41e4d-53c8-4ec8-a2e0-20e5f21aea53" />
+<img width="1720" height="787" alt="لقطة شاشة 2026-07-30 122616" src="https://github.com/user-attachments/assets/6fd41e4d-53c8-4ec8-a2e0-20e5f21aea53" />
 
 ### Family Login
 
-<img width="1820" height="898" alt="لقطة شاشة 2026-07-30 122610" src="https://github.com/user-attachments/assets/067363c6-2cf4-4800-aa47-d9013acff3f3" />
+<img width="1720" height="787" alt="لقطة شاشة 2026-07-30 122610" src="https://github.com/user-attachments/assets/067363c6-2cf4-4800-aa47-d9013acff3f3" />
 
 
 ### Dashboard
-<img width="1920" height="989" alt="لقطة شاشة 2026-07-30 122651" src="https://github.com/user-attachments/assets/71586972-e3a5-4b83-992a-6e6661bb54d8" />
-<img width="1920" height="989" alt="لقطة شاشة 2026-07-30 122654" src="https://github.com/user-attachments/assets/70877023-27f2-4bdb-8117-deae2b6fe3ba" />
-<img width="1920" height="984" alt="لقطة شاشة 2026-07-30 122658" src="https://github.com/user-attachments/assets/67768dd1-f144-4145-8f6b-6a5d3aded72d" />
-<img width="1920" height="993" alt="لقطة شاشة 2026-07-30 122734" src="https://github.com/user-attachments/assets/5df4cdd9-4b04-4cf4-9b1e-9d86aa4eca58" />
-<img width="1920" height="972" alt="لقطة شاشة 2026-07-30 122742" src="https://github.com/user-attachments/assets/d4a326bd-904a-4500-bdd5-18c6b3b631d5" />
+<img width="1720" height="787" alt="لقطة شاشة 2026-07-30 122651" src="https://github.com/user-attachments/assets/71586972-e3a5-4b83-992a-6e6661bb54d8" />
+<img width="1720" height="787" alt="لقطة شاشة 2026-07-30 122654" src="https://github.com/user-attachments/assets/70877023-27f2-4bdb-8117-deae2b6fe3ba" />
+<img width="1720" height="787" alt="لقطة شاشة 2026-07-30 122658" src="https://github.com/user-attachments/assets/67768dd1-f144-4145-8f6b-6a5d3aded72d" />
+<img width="1720" height="787" alt="لقطة شاشة 2026-07-30 122734" src="https://github.com/user-attachments/assets/5df4cdd9-4b04-4cf4-9b1e-9d86aa4eca58" />
+<img width="1720" height="787" alt="لقطة شاشة 2026-07-30 122742" src="https://github.com/user-attachments/assets/d4a326bd-904a-4500-bdd5-18c6b3b631d5" />
 
 ---
 
